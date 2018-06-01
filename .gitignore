@@ -23,3 +23,8 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+src/main/resources/static/
+src/main/resources/templates/
